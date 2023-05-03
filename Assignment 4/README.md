@@ -1,1 +1,1 @@
-
+this code consists of three classes: Main.java, Card.java and Deck.java. in Main class,the user id provided with the menu to choose various options. in Deck class two strings: suit and value are created and an array: card is created. methods in Deck class are: createDeck(), shuffleDeck(), showCards(), topCard(), createCard(), compareCard(), sortCard(), findCard(), sameCard(), deal(). the methods of Card class are: getSuit(), getValue(), setSuit(), setValue(), card().
